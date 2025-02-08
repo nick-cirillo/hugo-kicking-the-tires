@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick&#39;s Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Nick&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2025 23:26:38 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Fri, 07 Feb 2025 23:26:38 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;You can reach me on my &lt;a href=&#34;https://linkedin.com/in/nicholas-cirillo-&#34;&gt;LinkedIn&lt;/a&gt; or by &lt;a href=&#34;mailto:ncirillo@seas.upenn.edu&#34;&gt;emailing me.&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Fri, 07 Feb 2025 23:21:04 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a student at the University of Pennsylvania pursuing a BAS in Computer Science and a minor in Design.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently leading &lt;a href=&#34;https://pennspark.org&#34;&gt;Penn Spark&lt;/a&gt;, a tech and design club, and &lt;a href=&#34;https://pennproduct.com&#34;&gt;Product Space @ Penn&lt;/a&gt;, a product management club. I&amp;rsquo;m also a TA for &lt;a href=&#34;https://cis4120.seas.upenn.edu/&#34;&gt;CIS 4120/5120&lt;/a&gt;, and I&amp;rsquo;m a Product Management Intern at &lt;a href=&#34;https://ohai.ai&#34;&gt;Ohai.ai&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 07 Feb 2025 23:12:50 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my About page.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
